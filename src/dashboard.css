@@ -1,0 +1,862 @@
+body {
+  background-color: #000000;
+  background: #000000
+    url("https://storage.googleapis.com/dedashboard/images/stars-bg.png")
+    repeat fixed;
+  margin: 0;
+}
+
+section.dashboard {
+  max-width: 90vw; /*940px;*/
+  margin: 50px auto;
+  text-align: center;
+  color: white;
+  font-family: "Segoe UI", "Segoe UI Light", "Open Sans", "Open Sans Light",
+    Arial, sans-serif;
+  line-height: 1;
+}
+
+/* Dashboard Title ***********/
+div.dashboard-title {
+  background-color: #3f3f3f;
+  color: #ffffff;
+  font-size: 26px;
+  text-align: left;
+  padding: 1em;
+}
+
+/* Dashboard Header ***********/
+div.dashboard-header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: stretch;
+  align-items: flex-start;
+  height: 2em;
+}
+.area-header {
+  flex: 3 1 206px;
+  align-self: stretch;
+
+  background-color: #315c59;
+  font-size: 16px;
+  line-height: 16px;
+  text-align: left;
+  padding-left: 10px;
+  padding-top: 7px;
+}
+.stage-header {
+  flex: 10 1 740px;
+  align-self: stretch;
+
+  background-color: #1a1a1a;
+  font-size: 16px;
+  line-height: 16px;
+  text-align: left;
+  padding-left: 40px;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+.stage-header .current-stage {
+  flex: 1 1 auto;
+}
+.stage-header .stages {
+  flex: 0 1 480px;
+  padding-right: 20px;
+  font-size: 12px;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+/* Dashboard Row ***********/
+div.dashboard-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: stretch;
+  align-items: flex-start;
+  height: 60px;
+  border-bottom: 1px solid #292929;
+}
+
+.dashboard-area {
+  flex: 3 1 0px;
+  align-self: stretch;
+
+  background-color: #4c716e;
+  font-size: 14px;
+  line-height: 19px;
+  text-align: left;
+}
+
+.dashboard-stage-progress {
+  flex: 9 1 0px;
+  align-self: stretch;
+
+  /*Vertical centering*/
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+  background-color: #383838;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: left;
+  padding: 20px 30px;
+}
+
+.dashboard-view-details {
+  flex: 1 1 0px;
+  align-self: stretch;
+
+  /*Vertical centering*/
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+  background-color: #1a1a1a;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+  cursor: pointer;
+}
+
+/* Area Progress ****************/
+.area-completed-bar {
+  height: 60px;
+  background-color: #315c59;
+
+  position: relative;
+  left: 0px;
+  top: -59px;
+  z-index: 1;
+}
+.area-name {
+  padding: 0px 20px;
+  height: 59px;
+  position: relative;
+  z-index: 2;
+
+  /*Vertical align area name within each row*/
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+.area-completed {
+  position: relative;
+  color: #ffffff;
+  left: 90%;
+  top: -100px;
+  font-size: 12px;
+  z-index: 3;
+}
+
+/* Stage Progress ****************/
+.stage-progress-bar {
+  width: 100%;
+  background-color: #2c2c2c;
+}
+.stage-completed-bar {
+  height: 20px;
+  background-color: #1a1a1a;
+  color: #ffffff;
+  white-space: nowrap;
+}
+.stage-name {
+  position: relative;
+  left: 10px;
+}
+.stage-completed {
+  position: relative;
+  left: 150px;
+  top: -15px;
+}
+
+/* Dashboard Footer ***********/
+div.dashboard-footer {
+  background-color: #3f3f3f;
+  height: 20px;
+}
+
+/******************* Dashboard2 = Gantt *****************/
+
+/* Dashboard Title ***********/
+div.dashboard-top-nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: flex-start;
+  height: 40px;
+}
+.top-nav-back {
+  flex: 0 0 220px;
+  align-self: stretch;
+
+  background-color: #1a1a1a;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  transition: all 0.3s ease;
+}
+.top-nav-back a {
+  width: 100%;
+  height: 100%;
+}
+.top-nav-back a img {
+  float: left;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.top-nav-back:hover {
+  background: #666666;
+}
+.top-nav-stages {
+  flex: 9 1 440px;
+  align-self: stretch;
+
+  background-color: #2e2e2e;
+  font-size: 12px;
+  line-height: 14px;
+}
+.top-nav-toggles {
+  flex: 0 0 240px;
+  align-self: stretch;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #141414;
+}
+.top-nav-toggles a {
+  text-decoration: none;
+}
+.unlock-instructions {
+  font-size: 10px;
+  line-height: 14px;
+}
+.top-nav-stages-content {
+  width: 480px;
+  margin-left: 20px;
+  margin-top: 10px;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Dashboard Title ***********/
+div.dashboard-title-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: stretch;
+  align-items: flex-start;
+  height: 147px;
+  background-color: #010101;
+}
+.title-area {
+  flex: 0 0 220px;
+  align-self: stretch;
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #4d4d4d;
+  font-size: 18px;
+  line-height: 24px;
+}
+.title-stage {
+  flex: 9 1 480px; /*520-40=480, where padding-left:40 below*/
+  align-self: stretch;
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: flex-start;
+
+  background-color: #010101;
+  padding-left: 40px;
+}
+.title-far-right {
+  flex: 0 0 200px; /*Full-width dimnension: add to title-area & title-stage*/
+  align-self: stretch;
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+.title-view {
+  flex: 1 1 auto;
+  align-self: center;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: stretch;
+  align-items: center;
+
+  color: #7ebeba;
+  font-size: 32px;
+}
+.title-zoom {
+  flex: 0 0 auto; /*Full-width dimnension: add to title-area & title-stage*/
+  align-self: flex-end;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+  align-items: flex-start;
+
+  background-color: #010101;
+  font-size: 24px;
+}
+.title-zoom a {
+  color: white;
+  padding: 10px;
+}
+.title-area .title {
+  font-size: 18px;
+  line-height: 24px;
+}
+.title {
+  font-size: 24px;
+  line-height: 32px;
+}
+
+/* Overall Progress ****************/
+.overall-progress {
+  font-size: 10px;
+  line-height: 14px;
+  width: 250px;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.overall-progress-bar {
+  width: 150px;
+  background-color: #242424;
+}
+.overall-completed-bar {
+  height: 10px;
+  background-color: #4c716e;
+}
+.overall-progress.area {
+  width: 200px;
+}
+.overall-progress-bar.area {
+  width: 100px;
+}
+
+/* Dashboard Header ***********/
+div.dashboard-header-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: stretch;
+  align-items: flex-start;
+  height: 60px;
+}
+.dashboard-task-headers {
+  flex: 9 1 720px;
+  align-self: stretch;
+
+  /*Horizontal centering*/
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: stretch;
+
+  background-color: #3f3f3f;
+  font-size: 12px;
+  line-height: 16px;
+}
+.task-header {
+  flex: 1 1 0px;
+  border-right: 1px solid #000000;
+
+  /*Vertical centering*/
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.task-header:last-of-type {
+  border-right: 0px solid #000000;
+}
+
+/* Dashboard Content ********/
+div.dashboard-content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.content-left-rail {
+  flex: 3 1 220px;
+  align-self: stretch;
+
+  background-color: #1a1a1a;
+  font-size: 50px;
+  line-height: 20px;
+  text-align: left;
+}
+.content-main {
+  flex: 1 1 940px; /*720-40=680, where padding-left:40 below*/
+  align-self: stretch;
+
+  background-color: #141414;
+  font-size: 12px;
+  line-height: 14px;
+}
+
+/* Dashboard Row ***********/
+.dashboard-team {
+  flex: 0 0 220px; /*220-32=188, where 32 is left/right padding below*/
+  align-self: stretch;
+
+  background-color: #4c716e;
+  font-size: 14px;
+  line-height: 19px;
+  text-align: left;
+  font-weight: 300;
+}
+.dashboard-tasks {
+  flex: 9 1 720px;
+  align-self: stretch;
+
+  /*Vertical centering*/
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+
+  background-color: #383838;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+}
+.task {
+  flex: 1 1 0px;
+  background-color: #1a1a1a;
+  height: 10px;
+
+  /*Horizontal centering*/
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+.task:first-of-type {
+  background-color: #383838;
+
+  /*Right align*/
+  justify-content: flex-end;
+}
+.task:last-of-type {
+  background-color: #383838;
+}
+.task-bg {
+  height: 10px;
+  width: 100%;
+  background-color: #1a1a1a;
+}
+.task:first-of-type .task-bg,
+.task:last-of-type .task-bg {
+  width: 44%; /*for adjusting end dots*/
+}
+
+/* Dots ***********/
+.outer-dot {
+  width: 20px;
+  height: 20px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background-color: #1a1a1a;
+  position: relative;
+  left: 46%; /*for adjusting middle dots*/
+}
+.task:first-of-type .outer-dot {
+  left: 4%;
+}
+.task:last-of-type .outer-dot {
+  left: -4%;
+}
+.inner-dot {
+  width: 10px;
+  height: 10px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background-color: #1a1a1a;
+  position: relative;
+  left: 5px;
+  top: 5px;
+}
+.dark {
+  background-color: #1a1a1a;
+}
+.gray {
+  background-color: #b6b6b6;
+}
+.teal,
+.Complete {
+  background-color: #12926a;
+}
+.yellow,
+.Scheduled {
+  background-color: #ecd73a;
+}
+.white {
+  background-color: #ffffff;
+}
+.blue,
+.InProgress {
+  background-color: #00a2ff;
+}
+
+/*Default class for sticky header*/
+.stuck {
+  position: fixed;
+  top: 0;
+  z-index: 10;
+}
+
+/**************** Vis.js Calendar Chart ***************/
+/* custom styles for individual items, load this after vis.css/vis-timeline-graph2d.min.css */
+.vis-timeline {
+  border: 0;
+}
+.vis-time-axis {
+  font-family: "Segoe UI", "Segoe UI Light", "Open Sans", "Open Sans Light",
+    Arial, sans-serif;
+  background-color: #3f3f3f;
+  color: white;
+}
+.vis-text.vis-major,
+.vis-text.vis-minor {
+  color: white;
+}
+.vis-label {
+  font-family: "Segoe UI", "Segoe UI Light", "Open Sans", "Open Sans Light",
+    Arial, sans-serif;
+  background-color: #4c716e;
+  text-align: left;
+}
+.vis-labelset {
+  width: 220px;
+}
+.vis-label .vis-inner {
+  font-size: 14px;
+  line-height: 19px;
+  color: white;
+  height: 62px;
+}
+.vis-item {
+  font-family: "Segoe UI", "Segoe UI Light", "Open Sans", "Open Sans Light",
+    Arial, sans-serif;
+  border-color: black;
+}
+.vis-item.teal {
+  background-color: #12926a;
+  border-color: black;
+}
+.vis-item.yellow {
+  background-color: #ecd73a;
+  border-color: black;
+}
+.vis-item.white {
+  background-color: #ffffff;
+  border-color: black;
+}
+.vis-item.blue {
+  background-color: #00a2ff;
+  border-color: black;
+  color: white;
+}
+.vis-item.orange {
+  background-color: gold;
+  border-color: orange;
+}
+.vis-item.vis-selected.orange {
+  /* custom colors for selected orange items */
+  background-color: orange;
+  border-color: orangered;
+}
+.vis-item.magenta {
+  background-color: magenta;
+  border-color: purple;
+  color: white;
+}
+.vis-labelset .vis-label .vis-inner {
+  padding: 0;
+  width: 100%;
+}
+.vis-labelset .vis-label {
+  border-bottom:1px solid #284d4a;
+ }
+ .vis-foreground .vis-group {
+  border-bottom:1px solid #0f0f0f;
+ }
+ .vis-bottom.vis-panel, .vis-center.vis-panel, .vis-left.vis-panel, .vis-right.vis-panel, .vis-top.vis-panel {
+  border-bottom:1px solid #0f0f0f;
+ }
+ .vis-bottom.vis-panel, .vis-center.vis-panel, .vis-left.vis-panel, .vis-right.vis-panel, .vis-top.vis-panel {
+  border-bottom:1px solid #0f0f0f;
+}
+
+
+/* Team Progress ****************/
+.team-completed-bar {
+  height: 60px;
+  background-color: #315c59;
+
+  position: relative;
+  left: 0px;
+  top: -59px;
+  z-index: 1;
+}
+.team-name {
+  padding: 0px 10px;
+  height: 59px;
+  position: relative;
+  z-index: 2;
+
+  /*Vertical align area name within each row*/
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+.team-completed {
+  position: relative;
+  color: #ffffff;
+  left: 88%;
+  top: -115px;
+  font-size: 12px;
+  z-index: 3;
+}
+
+/* our custom classes overrule the styles for selected events,
+   so lets define a new style for the selected events */
+.vis-item.vis-selected {
+  background-color: white;
+  border-color: black;
+  color: black;
+  box-shadow: 0 0 10px gray;
+}
+
+/*Legend fix to position within empty section in Gant Chart*/
+section.legend {
+  margin: 0px auto;
+}
+div.dashboard-title-row.legend {
+  height: 40px;
+}
+.title-legend { /*similar to .title-area*/
+  flex: 0 0 220px;
+  align-self: stretch;
+
+  background-color: transparent;
+  font-size: 18px;
+  line-height: 24px;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+.dashboard-legend {
+  flex: 0 0 220px;
+  align-self: stretch;
+
+  background-color: #303030;
+  white-space: nowrap;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: center;
+
+  position: relative;
+  top: 278px;
+}
+.dashboard-legend div.legend td {
+  font-size: 9px;
+  line-height: 12px;
+  color: #ffffff;
+}
+.title-stage.legend {
+  background-color: transparent;
+}
+
+/* Styling overwrite for Tooltip */
+div.vis-tooltip {
+  position: absolute;
+  visibility: hidden;
+  padding: 10px;
+  white-space: nowrap;
+  font-family: segoe ui;
+  font-size: 12px;
+  color: #000000;
+  background-color: #ffffff;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  border: 0;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+  pointer-events: none;
+  z-index: 5;
+}
+
+/* Top Navigation Bar ***********/
+div.navLinks {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+
+  height: 84px;
+  background-color: white;
+}
+div.navLinks a {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 14px;
+  color: #78ccd0;
+  font-family: "Open Sans Bold" !important;
+  text-decoration: none;
+}
+div.navLinks div {
+  flex: 0 0 auto;
+  padding-left: 32px;
+}
+
+/******* Task (Progress) View ***********/
+/* Dashboard Header ***********/
+div.Pdashboard-header-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: stretch;
+  align-items: flex-start;
+  height: 60px;
+}
+.Pdashboard-legend {
+  flex: 0 0 220px;
+  align-self: stretch;
+
+  background-color: #303030;
+  font-size: 9px;
+  line-height: 12px;
+  white-space: nowrap;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.Plegend {
+  flex: 0 0 auto;
+}
+.Ptop-nav-stages {
+  flex: 9 1 700px; /*720-40=680, where padding-left:40 below*/
+  align-self: stretch;
+
+  background-color: #141414;
+  font-size: 12px;
+  line-height: 14px;
+  padding-left: 20px;
+}
+
+
+/*top nav navButton labels*/
+.navButtonLabel {
+  font-size: 14px;
+  font-family: "Segoe UI", "Segoe UI Light", "Open Sans", "Open Sans Light",
+  Arial, sans-serif;
+  padding-left: 10px;
+}
+/*top nav navButton INACTIVE*/
+.navButtonInactive {
+  background-color: #141414;
+  cursor: pointer;
+  width: 120px;
+  height: 40px;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+.navButtonInactive:hover {
+    background-color: #565656;
+}
+.navButtonInactive .navButtonIcon{
+  fill: #BABABA;
+}
+.navButtonInactive .navButtonLabel {
+  color: #BABABA;
+}
+/*top nav navButton ACTIVE*/
+.navButtonActive {
+  background-color: #7EBEBA;
+  cursor: text;
+  width: 120px;
+  height: 40px;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+.navButtonActive .navButtonIcon{
+  fill: #141414;
+}
+.navButtonActive .navButtonLabel {
+  color: #141414;
+}

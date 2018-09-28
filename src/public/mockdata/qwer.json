@@ -1,0 +1,105 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'bc8c0469-8c93-42f1-afaf-fe9dee2fc195')/Items(1)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'bc8c0469-8c93-42f1-afaf-fe9dee2fc195')/Items(1)",
+          "etag": "\"1\"",
+          "type": "SP.Data.Dash_x0020_AreasListItem"
+        },
+        "Id": 1,
+        "Title": "Architecture CTO",
+        "ID": 1
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'bc8c0469-8c93-42f1-afaf-fe9dee2fc195')/Items(2)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'bc8c0469-8c93-42f1-afaf-fe9dee2fc195')/Items(2)",
+          "etag": "\"1\"",
+          "type": "SP.Data.Dash_x0020_AreasListItem"
+        },
+        "Id": 2,
+        "Title": "Chief Administrative Office",
+        "ID": 2
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'bc8c0469-8c93-42f1-afaf-fe9dee2fc195')/Items(3)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'bc8c0469-8c93-42f1-afaf-fe9dee2fc195')/Items(3)",
+          "etag": "\"1\"",
+          "type": "SP.Data.Dash_x0020_AreasListItem"
+        },
+        "Id": 3,
+        "Title": "Chief Data & Analytics Office",
+        "ID": 3
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'bc8c0469-8c93-42f1-afaf-fe9dee2fc195')/Items(4)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'bc8c0469-8c93-42f1-afaf-fe9dee2fc195')/Items(4)",
+          "etag": "\"1\"",
+          "type": "SP.Data.Dash_x0020_AreasListItem"
+        },
+        "Id": 4,
+        "Title": "Chief Design Office",
+        "ID": 4
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'bc8c0469-8c93-42f1-afaf-fe9dee2fc195')/Items(5)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'bc8c0469-8c93-42f1-afaf-fe9dee2fc195')/Items(5)",
+          "etag": "\"1\"",
+          "type": "SP.Data.Dash_x0020_AreasListItem"
+        },
+        "Id": 5,
+        "Title": "Chief Information Officer",
+        "ID": 5
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'bc8c0469-8c93-42f1-afaf-fe9dee2fc195')/Items(6)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'bc8c0469-8c93-42f1-afaf-fe9dee2fc195')/Items(6)",
+          "etag": "\"1\"",
+          "type": "SP.Data.Dash_x0020_AreasListItem"
+        },
+        "Id": 6,
+        "Title": "Digital Experience",
+        "ID": 6
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'bc8c0469-8c93-42f1-afaf-fe9dee2fc195')/Items(7)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'bc8c0469-8c93-42f1-afaf-fe9dee2fc195')/Items(7)",
+          "etag": "\"1\"",
+          "type": "SP.Data.Dash_x0020_AreasListItem"
+        },
+        "Id": 7,
+        "Title": "Enterprise Platform Infrastructure",
+        "ID": 7
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'bc8c0469-8c93-42f1-afaf-fe9dee2fc195')/Items(8)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'bc8c0469-8c93-42f1-afaf-fe9dee2fc195')/Items(8)",
+          "etag": "\"1\"",
+          "type": "SP.Data.Dash_x0020_AreasListItem"
+        },
+        "Id": 8,
+        "Title": "IT Operations",
+        "ID": 8
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'bc8c0469-8c93-42f1-afaf-fe9dee2fc195')/Items(9)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'bc8c0469-8c93-42f1-afaf-fe9dee2fc195')/Items(9)",
+          "etag": "\"1\"",
+          "type": "SP.Data.Dash_x0020_AreasListItem"
+        },
+        "Id": 9,
+        "Title": "USAA Labs",
+        "ID": 9
+      }
+    ]
+  }
+}

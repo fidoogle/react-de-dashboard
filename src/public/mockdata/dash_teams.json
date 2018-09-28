@@ -1,0 +1,806 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(1)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(1)",
+          "etag": "\"11\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "cd04f0fb-cdd2-4b32-a1ba-bcc0363c8cc7",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 1,
+        "Title": "(Enterprise) Manage My Money",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 16,
+        "ID": 1
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(2)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(2)",
+          "etag": "\"8\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "aa528d75-bd18-4a5c-bfcc-f2a2a6af6b11",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 2,
+        "Title": "(Enterprise) Know the Member",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 16,
+        "ID": 2
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(3)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(3)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "69f59501-e2d9-4b45-b123-cf70c06f2cfe",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 3,
+        "Title": "Digital Payment Platforms",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 7,
+        "ID": 3
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(4)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(4)",
+          "etag": "\"4\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "ffc7a90f-a20d-48f5-9e87-10ed679efd9c",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 4,
+        "Title": "Digital Document Delivery",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 8,
+        "ID": 4
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(5)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(5)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "39643054-edda-48c1-bf2d-3855b2548295",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 5,
+        "Title": "Digital Member Assistance (Inbound)",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 9,
+        "ID": 5
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(6)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(6)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "600d593f-2d47-460f-a73f-2782687d1620",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 6,
+        "Title": "Digital Planning",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 2,
+        "ID": 6
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(7)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(7)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "e8772998-4971-4f45-8be1-e879c0472ef9",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 7,
+        "Title": "Digital Personalization",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 9,
+        "ID": 7
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(8)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(8)",
+          "etag": "\"6\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "efd27f57-4c95-4c87-90b0-7d0872591aa7",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 8,
+        "Title": "Digital Operations-Content Development",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 3,
+        "ID": 8
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(9)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(9)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "822de626-f9d4-457f-9f9b-4fa0c2d49352",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 9,
+        "Title": "Digital Voiceline",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 10,
+        "ID": 9
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(10)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(10)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "e4d8d5ea-306c-41eb-804e-da781515489e",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 10,
+        "Title": "Digital Members Communication",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 11,
+        "ID": 10
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(11)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(11)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "bc6de8b6-6377-497d-b615-5761c5a36567",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 11,
+        "Title": "Digital Operations-Reporting & Analytcs (PACO)",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 3,
+        "ID": 11
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(12)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(12)",
+          "etag": "\"6\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "f7e39957-e2f9-4834-9937-b182cdd1a0d2",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 12,
+        "Title": "Digital DotCom",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 4,
+        "ID": 12
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(13)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(13)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "05dd9233-c09c-4a4e-9e70-21dc0511db33",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 13,
+        "Title": "Digital Mobile",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 4,
+        "ID": 13
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(14)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(14)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "41cb392d-afaa-4023-8a15-7906b1465705",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 14,
+        "Title": "Digital Analyze Feedback",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 4,
+        "ID": 14
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(15)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(15)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "c3256169-5d34-4383-bec5-8346ad2bd51e",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 15,
+        "Title": "Digital Next Gen Digital",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 5,
+        "ID": 15
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(16)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(16)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "40427622-927f-439e-8a8b-0d8c3c1005da",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 16,
+        "Title": "Digital Agent",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 12,
+        "ID": 16
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(17)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(17)",
+          "etag": "\"6\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "e3544883-8354-470c-be64-a8a07ab3f2b3",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 17,
+        "Title": "Digital Optimization",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 13,
+        "ID": 17
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(18)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(18)",
+          "etag": "\"4\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "5f3951cd-a646-4db5-96a6-9515472b071a",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 18,
+        "Title": "Digital Strategy",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 1,
+        "ID": 18
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(19)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(19)",
+          "etag": "\"4\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "a3660d8e-47f8-4eb0-88fa-07c4781475c5",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "USAA Labs"
+        },
+        "Id": 19,
+        "Title": "Blank",
+        "Dash_x0020_AreaId": 9,
+        "kt9a": 6,
+        "ID": 19
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(21)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(21)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "d32c85ea-33b6-4d1c-9b34-f1c3ebfbad18",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 21,
+        "Title": "Digital LOB - Bank",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 14,
+        "ID": 21
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(22)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(22)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "db132538-0f9e-4619-9610-9076155b57fb",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 22,
+        "Title": "Digital LOB - P&C",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 14,
+        "ID": 22
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(23)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(23)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "66da4178-8db5-45ba-9707-9b616d2fc518",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 23,
+        "Title": "Digital LOB - Life",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 14,
+        "ID": 23
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(24)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(24)",
+          "etag": "\"6\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "034757ff-7811-4695-9af6-9337ae205515",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 24,
+        "Title": "Digital- My Access",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 15,
+        "ID": 24
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(25)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(25)",
+          "etag": "\"4\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "331a9b59-43a2-43f9-a15e-055fd06c8e87",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 25,
+        "Title": "Digital - Join USAA",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 15,
+        "ID": 25
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(26)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(26)",
+          "etag": "\"4\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "c61497eb-4981-4885-b673-c11638db0fe4",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 26,
+        "Title": "Digital - Get Advice",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 15,
+        "ID": 26
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(27)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(27)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "f54cb77b-8eeb-4c1e-9e0e-ed8cc832896c",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 27,
+        "Title": "Digital Static Content Publishing",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 7,
+        "ID": 27
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(28)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(28)",
+          "etag": "\"3\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "9829eac4-4309-425c-a1fb-8835ca05febd",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 28,
+        "Title": "Digital LOB - IMCO",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": 14,
+        "ID": 28
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(29)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(29)",
+          "etag": "\"2\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "c80b8615-dc09-4797-989d-c6c93761719f",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Chief Design Office"
+        },
+        "Id": 29,
+        "Title": "Outcomes - Bank Design",
+        "Dash_x0020_AreaId": 4,
+        "kt9a": null,
+        "ID": 29
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(30)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(30)",
+          "etag": "\"3\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "c5efdc16-fc6a-499f-912d-15932bff6ac4",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Chief Design Office"
+        },
+        "Id": 30,
+        "Title": "Outcomes - P&C Design",
+        "Dash_x0020_AreaId": 4,
+        "kt9a": null,
+        "ID": 30
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(31)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(31)",
+          "etag": "\"2\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "7bca870b-5a3d-4fb3-8d60-3f3ef5eab975",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Chief Design Office"
+        },
+        "Id": 31,
+        "Title": "Outcomes - Auto Design",
+        "Dash_x0020_AreaId": 4,
+        "kt9a": null,
+        "ID": 31
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(32)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(32)",
+          "etag": "\"3\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "788a4bf9-7005-42ae-b856-e1f418dd573c",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Chief Design Office"
+        },
+        "Id": 32,
+        "Title": "Outcomes - Enterprise Design",
+        "Dash_x0020_AreaId": 4,
+        "kt9a": null,
+        "ID": 32
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(33)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(33)",
+          "etag": "\"2\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "cb12a8c9-92df-47c3-9217-9ee02a2682e9",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Chief Design Office"
+        },
+        "Id": 33,
+        "Title": "Practice - Design Research",
+        "Dash_x0020_AreaId": 4,
+        "kt9a": null,
+        "ID": 33
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(34)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(34)",
+          "etag": "\"3\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "2610d8c5-0fda-49b9-b999-a624e81fd895",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Chief Design Office"
+        },
+        "Id": 34,
+        "Title": "Practice - Service Design",
+        "Dash_x0020_AreaId": 4,
+        "kt9a": null,
+        "ID": 34
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(35)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(35)",
+          "etag": "\"2\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "eaadecf5-87d7-481b-93e3-20624a892ce3",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Chief Design Office"
+        },
+        "Id": 35,
+        "Title": "Practice - Talent/Workforce/Ambassadorship",
+        "Dash_x0020_AreaId": 4,
+        "kt9a": null,
+        "ID": 35
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(36)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(36)",
+          "etag": "\"2\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "67f822eb-6762-4b43-b7ee-f8cdf57b5198",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Chief Design Office"
+        },
+        "Id": 36,
+        "Title": "Practice - Design Language System",
+        "Dash_x0020_AreaId": 4,
+        "kt9a": null,
+        "ID": 36
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(37)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(37)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "73540d16-afd1-42c9-b67d-2fdaa9e9d73d",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 37,
+        "Title": "Digital DE Program Team",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": null,
+        "ID": 37
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(38)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(38)",
+          "etag": "\"1\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "aea6a1a5-5d75-400a-b547-4d57daef8b83",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Chief Design Office"
+        },
+        "Id": 38,
+        "Title": "Outcomes - Employee Experience Design",
+        "Dash_x0020_AreaId": 4,
+        "kt9a": null,
+        "ID": 38
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(39)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(39)",
+          "etag": "\"1\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "4103238b-baf2-412e-98e4-1fc9f2962759",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Chief Design Office"
+        },
+        "Id": 39,
+        "Title": "Outcomes - FASG Design",
+        "Dash_x0020_AreaId": 4,
+        "kt9a": null,
+        "ID": 39
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(40)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(40)",
+          "etag": "\"1\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "d1109797-fdcf-4483-a8ca-0f01334fd430",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Chief Design Office"
+        },
+        "Id": 40,
+        "Title": "Practice - Human Centered/Design Education",
+        "Dash_x0020_AreaId": 4,
+        "kt9a": null,
+        "ID": 40
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(41)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'3c7e1cab-39ac-4fa5-8aa2-786846c09256')/Items(41)",
+          "etag": "\"4\"",
+          "type": "SP.Data.Dash_x0020_TeamsListItem"
+        },
+        "Dash_x0020_Area": {
+          "__metadata": {
+            "id": "b98075a8-2b9e-4080-aba7-64b688f13a9d",
+            "type": "SP.Data.Dash_x0020_AreasListItem"
+          },
+          "Title": "Digital Experience"
+        },
+        "Id": 41,
+        "Title": "Digital Converstational Enablement",
+        "Dash_x0020_AreaId": 6,
+        "kt9a": null,
+        "ID": 41
+      }
+    ]
+  }
+}

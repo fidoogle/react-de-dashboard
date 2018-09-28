@@ -1,0 +1,17 @@
+{
+  "name": "de-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/64y8z4lx5k",
+  "main": "index.js",
+  "dependencies": {
+    "vis": "4.21.0",
+    "react-router-dom": "4.2.2",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "moment": "2.20.1",
+    "lodash": "4.17.4",
+    "jquery": "3.2.1"
+  }
+}

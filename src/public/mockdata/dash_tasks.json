@@ -1,0 +1,300 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(1)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(1)",
+          "etag": "\"2\"",
+          "type": "SP.Data.Dash_x0020_TasksListItem"
+        },
+        "Dash_x0020_Stage": {
+          "__metadata": {
+            "id": "e01a5c81-a6ba-46c2-ae34-819a8bf65ce5",
+            "type": "SP.Data.Dash_x0020_StagesListItem"
+          },
+          "Title": "Taxonomy Deployment",
+          "Order0": 1
+        },
+        "Id": 1,
+        "Title": "CTDO Deployment Kickoff",
+        "Dash_x0020_StageId": 1,
+        "ekvp": 1,
+        "ID": 1
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(2)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(2)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TasksListItem"
+        },
+        "Dash_x0020_Stage": {
+          "__metadata": {
+            "id": "066db87b-6943-42dd-a130-320a6e017f25",
+            "type": "SP.Data.Dash_x0020_StagesListItem"
+          },
+          "Title": "Taxonomy Deployment",
+          "Order0": 1
+        },
+        "Id": 2,
+        "Title": "Taxonomy Prep",
+        "Dash_x0020_StageId": 1,
+        "ekvp": 2,
+        "ID": 2
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(3)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(3)",
+          "etag": "\"4\"",
+          "type": "SP.Data.Dash_x0020_TasksListItem"
+        },
+        "Dash_x0020_Stage": {
+          "__metadata": {
+            "id": "97036b7c-5198-4cca-a564-434d10d5f8d6",
+            "type": "SP.Data.Dash_x0020_StagesListItem"
+          },
+          "Title": "Taxonomy Deployment",
+          "Order0": 1
+        },
+        "Id": 3,
+        "Title": "Taxonomy Sessions",
+        "Dash_x0020_StageId": 1,
+        "ekvp": 3,
+        "ID": 3
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(4)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(4)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TasksListItem"
+        },
+        "Dash_x0020_Stage": {
+          "__metadata": {
+            "id": "cf33f4d2-80bb-4368-868b-af1de28b2866",
+            "type": "SP.Data.Dash_x0020_StagesListItem"
+          },
+          "Title": "Taxonomy Deployment",
+          "Order0": 1
+        },
+        "Id": 4,
+        "Title": "Pressure Test / Validation",
+        "Dash_x0020_StageId": 1,
+        "ekvp": 5,
+        "ID": 4
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(5)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(5)",
+          "etag": "\"6\"",
+          "type": "SP.Data.Dash_x0020_TasksListItem"
+        },
+        "Dash_x0020_Stage": {
+          "__metadata": {
+            "id": "f5a73e67-925a-413d-9d01-0f5feaf6a692",
+            "type": "SP.Data.Dash_x0020_StagesListItem"
+          },
+          "Title": "Ownership",
+          "Order0": 2
+        },
+        "Id": 5,
+        "Title": "Identify Candidates",
+        "Dash_x0020_StageId": 2,
+        "ekvp": 6,
+        "ID": 5
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(6)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(6)",
+          "etag": "\"4\"",
+          "type": "SP.Data.Dash_x0020_TasksListItem"
+        },
+        "Dash_x0020_Stage": {
+          "__metadata": {
+            "id": "ecef8ca4-1ec2-449e-afee-2192f9491866",
+            "type": "SP.Data.Dash_x0020_StagesListItem"
+          },
+          "Title": "Ownership",
+          "Order0": 2
+        },
+        "Id": 6,
+        "Title": "Assign Candidates",
+        "Dash_x0020_StageId": 2,
+        "ekvp": 7,
+        "ID": 6
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(7)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(7)",
+          "etag": "\"4\"",
+          "type": "SP.Data.Dash_x0020_TasksListItem"
+        },
+        "Dash_x0020_Stage": {
+          "__metadata": {
+            "id": "09f52c9e-c262-4ec8-80ff-0d9d69b41c77",
+            "type": "SP.Data.Dash_x0020_StagesListItem"
+          },
+          "Title": "Ownership",
+          "Order0": 2
+        },
+        "Id": 7,
+        "Title": "Train Owners",
+        "Dash_x0020_StageId": 2,
+        "ekvp": 8,
+        "ID": 7
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(8)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(8)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TasksListItem"
+        },
+        "Dash_x0020_Stage": {
+          "__metadata": {
+            "id": "f05a5c83-c74b-4053-b633-bcce0b7bf0cb",
+            "type": "SP.Data.Dash_x0020_StagesListItem"
+          },
+          "Title": "Documentation",
+          "Order0": 3
+        },
+        "Id": 8,
+        "Title": "Conduct PRA",
+        "Dash_x0020_StageId": 3,
+        "ekvp": 9,
+        "ID": 8
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(9)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(9)",
+          "etag": "\"5\"",
+          "type": "SP.Data.Dash_x0020_TasksListItem"
+        },
+        "Dash_x0020_Stage": {
+          "__metadata": {
+            "id": "94d840b9-8b4e-4f42-bd8f-1354b7021cc8",
+            "type": "SP.Data.Dash_x0020_StagesListItem"
+          },
+          "Title": "Documentation",
+          "Order0": 3
+        },
+        "Id": 9,
+        "Title": "Documentation Prep",
+        "Dash_x0020_StageId": 3,
+        "ekvp": 10,
+        "ID": 9
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(10)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(10)",
+          "etag": "\"7\"",
+          "type": "SP.Data.Dash_x0020_TasksListItem"
+        },
+        "Dash_x0020_Stage": {
+          "__metadata": {
+            "id": "049ff474-8822-4e4a-8189-1e1fe63b4dd7",
+            "type": "SP.Data.Dash_x0020_StagesListItem"
+          },
+          "Title": "Documentation",
+          "Order0": 3
+        },
+        "Id": 10,
+        "Title": "Documentation Sessions",
+        "Dash_x0020_StageId": 3,
+        "ekvp": 11,
+        "ID": 10
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(11)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(11)",
+          "etag": "\"4\"",
+          "type": "SP.Data.Dash_x0020_TasksListItem"
+        },
+        "Dash_x0020_Stage": {
+          "__metadata": {
+            "id": "30cd9982-deb8-430b-86d3-2969a262e640",
+            "type": "SP.Data.Dash_x0020_StagesListItem"
+          },
+          "Title": "Documentation",
+          "Order0": 3
+        },
+        "Id": 11,
+        "Title": "Validate Documentation",
+        "Dash_x0020_StageId": 3,
+        "ekvp": 12,
+        "ID": 11
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(12)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(12)",
+          "etag": "\"6\"",
+          "type": "SP.Data.Dash_x0020_TasksListItem"
+        },
+        "Dash_x0020_Stage": {
+          "__metadata": {
+            "id": "b9395e82-afa4-4f3e-b82d-a7aea47c7c45",
+            "type": "SP.Data.Dash_x0020_StagesListItem"
+          },
+          "Title": "Certification",
+          "Order0": 4
+        },
+        "Id": 12,
+        "Title": "Certification Prep",
+        "Dash_x0020_StageId": 4,
+        "ekvp": 13,
+        "ID": 12
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(13)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(13)",
+          "etag": "\"4\"",
+          "type": "SP.Data.Dash_x0020_TasksListItem"
+        },
+        "Dash_x0020_Stage": {
+          "__metadata": {
+            "id": "3afc2523-09c9-4731-ba57-39621207b2c1",
+            "type": "SP.Data.Dash_x0020_StagesListItem"
+          },
+          "Title": "Certification",
+          "Order0": 4
+        },
+        "Id": 13,
+        "Title": "Certification Sessions",
+        "Dash_x0020_StageId": 4,
+        "ekvp": 14,
+        "ID": 13
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(14)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'b7ceacd5-8856-4599-aca6-6563d528ca61')/Items(14)",
+          "etag": "\"2\"",
+          "type": "SP.Data.Dash_x0020_TasksListItem"
+        },
+        "Dash_x0020_Stage": {
+          "__metadata": {
+            "id": "0051f4a7-1bc6-46ab-ba96-3c42de9bf827",
+            "type": "SP.Data.Dash_x0020_StagesListItem"
+          },
+          "Title": "Taxonomy Deployment",
+          "Order0": 1
+        },
+        "Id": 14,
+        "Title": "Taxonomy Descriptions",
+        "Dash_x0020_StageId": 1,
+        "ekvp": 4,
+        "ID": 14
+      }
+    ]
+  }
+}

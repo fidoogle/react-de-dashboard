@@ -1,0 +1,66 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1ad9dcfb-5227-40d1-82b9-7b08ce97e299')/Items(1)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'1ad9dcfb-5227-40d1-82b9-7b08ce97e299')/Items(1)",
+          "etag": "\"2\"",
+          "type": "SP.Data.Dash_x0020_StagesListItem"
+        },
+        "Id": 1,
+        "Title": "Taxonomy Deployment",
+        "Order0": 1,
+        "ID": 1
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1ad9dcfb-5227-40d1-82b9-7b08ce97e299')/Items(2)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'1ad9dcfb-5227-40d1-82b9-7b08ce97e299')/Items(2)",
+          "etag": "\"2\"",
+          "type": "SP.Data.Dash_x0020_StagesListItem"
+        },
+        "Id": 2,
+        "Title": "Ownership",
+        "Order0": 2,
+        "ID": 2
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1ad9dcfb-5227-40d1-82b9-7b08ce97e299')/Items(3)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'1ad9dcfb-5227-40d1-82b9-7b08ce97e299')/Items(3)",
+          "etag": "\"2\"",
+          "type": "SP.Data.Dash_x0020_StagesListItem"
+        },
+        "Id": 3,
+        "Title": "Documentation",
+        "Order0": 3,
+        "ID": 3
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1ad9dcfb-5227-40d1-82b9-7b08ce97e299')/Items(4)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'1ad9dcfb-5227-40d1-82b9-7b08ce97e299')/Items(4)",
+          "etag": "\"2\"",
+          "type": "SP.Data.Dash_x0020_StagesListItem"
+        },
+        "Id": 4,
+        "Title": "Certification",
+        "Order0": 4,
+        "ID": 4
+      },
+      {
+        "__metadata": {
+          "id": "Web/Lists(guid'1ad9dcfb-5227-40d1-82b9-7b08ce97e299')/Items(5)",
+          "uri": "http://team.usaa.com/sites/itpx/ctdode/_api/Web/Lists(guid'1ad9dcfb-5227-40d1-82b9-7b08ce97e299')/Items(5)",
+          "etag": "\"3\"",
+          "type": "SP.Data.Dash_x0020_StagesListItem"
+        },
+        "Id": 5,
+        "Title": "Sustain",
+        "Order0": 5,
+        "ID": 5
+      }
+    ]
+  }
+}
